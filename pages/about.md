@@ -10,7 +10,7 @@ eleventyNavigation:
 ---
 #### Why Create This?
 
-I wanted to develop a portfolio that was simple, fast, accessible, and can be modified without opening up a code editor.
+My name is Mark.
 
 First, I needed a static site generator. This led me to [Eleventy](https://www.11ty.dev/). This project is great because it is is simple, powerful, written in javascript, and framework free.
 
@@ -20,4 +20,4 @@ I found a few good starter projects using these technologies, but was overall un
 
 This project is open source so that hopefully someone else can use this as a template (or reference) in building their own site. Technical details can be found on the [Github repo](https://github.com/TylerMRoderick/fernfolio-11ty-template) and some customization instructions can be found [here](/posts/theme-customizations/).
 
-![Fern in Hand]( "Fern in Hand")
+![Fern in Hand](/static/img/logo.png "Fern in Hand")
